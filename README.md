@@ -1,11 +1,9 @@
 # Gaymes Assistant Bot
 
+[![CMake](https://github.com/Norfoe/GaymesAssistantBot/actions/workflows/cmake.yml/badge.svg)](https://github.com/Norfoe/GaymesAssistantBot/actions/workflows/cmake.yml)
+
 TODO: Put a funny little description here
 
 ## Setting it up
 
-Teloxide is using environment variables for setup. The following variables have to be available:
-
-```
-TELOXIDE_TOKEN - your bot token from @BotFather
-```
+Put your token as some environment variable
